@@ -60,5 +60,5 @@ This project analyzes pizza sales data using **Power BI**. The interactive dashb
 ---
 
 ## 📧 Contact  
-- **LinkedIn:** linkedin.com/in/tsabeh-hamed-data-analytics?   
+- **LinkedIn:** https://linkedin.com/in/tsabeh-hamed-data-analyst 
 - **Email:** tsabehamed@gmail.com  
